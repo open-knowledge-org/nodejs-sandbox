@@ -1,9 +1,3 @@
-##### Instalattion
-- Ensure that your have the database server installed
-```shell
-
-```
-
 ##### Credits
 
 ##### Reference
